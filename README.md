@@ -1,3 +1,9 @@
+# Link to Netlify
+
+```sh
+    https://blogpracticas.netlify.app/
+```
+
 # Astro Starter Kit: Minimal
 
 ```sh
