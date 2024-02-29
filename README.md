@@ -15,7 +15,7 @@ El principal objetivo de este proyecto es proporcionar una experiencia educativa
 
 Este proyecto hace uso de tecnologías de vanguardia para ofrecer una experiencia de desarrollo y análisis robusta. Destacamos:
 
-- [![TypeScript]src\assets\icons\typescript-color.svg] `TypeScript`: Un lenguaje de programación potente para el desarrollo de aplicaciones complejas.
+- [![TypeScript](src\assets\icons\typescript-color.svg)] `TypeScript`: Un lenguaje de programación potente para el desarrollo de aplicaciones complejas.
 - [![Visual Studio Code](URL_DEL_ICONO_SVG_DE_VSCODE)](URL_A_DOCUMENTACION_O_REPOSITORIO_DE_VSCODE) `Visual Studio Code`: El editor de código fuente elegido para este proyecto, conocido por su flexibilidad y soporte a múltiples lenguajes.
 - [![Astro](URL_DEL_ICONO_SVG_DE_ASTRO)](URL_A_DOCUMENTACION_O_REPOSITORIO_DE_ASTRO) `Astro`: Una herramienta innovadora para construir sitios web modernos y rápidos, optimizando la entrega de contenido estático y dinámico.
 - [![GitHub](URL_DEL_ICONO_SVG_DE_GITHUB)](URL_A_DOCUMENTACION_O_REPOSITORIO_DE_GITHUB) `GitHub`: La plataforma de desarrollo colaborativo utilizada para alojar el código del proyecto, facilitando la gestión de versiones y la colaboración en equipo.
